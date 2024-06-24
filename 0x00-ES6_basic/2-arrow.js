@@ -3,6 +3,8 @@ const getNeighborhoodsList = () => {
   
     const addNeighborhood = (newNeighborhood) => {
       sanFranciscoNeighborhoods.push(newNeighborhood);
+  
+      return sanFranciscoNeighborhoods;
     };
   
     return {
