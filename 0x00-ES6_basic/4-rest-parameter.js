@@ -1,5 +1,5 @@
-export default function returnHowManyArguments(...prams) {
+export default function returnHowManyArguments(...params) {
 
-    return prams.length;
+    return params.length;
 
 }
