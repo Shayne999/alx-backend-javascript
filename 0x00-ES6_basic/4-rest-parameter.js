@@ -1,5 +1,5 @@
 export default function returnHowManyArguments(...prams) {
 
-    return prams.length
+    return prams.length;
 
 }
