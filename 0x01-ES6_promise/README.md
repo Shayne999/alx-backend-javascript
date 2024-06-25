@@ -1,0 +1,1 @@
+This directory contails js files, the contents of which are solutions to the Alx 0x01. ES6 Promises task.
