@@ -1,0 +1,1 @@
+This directory contains javascript files with solutions to the Alx 0x05. NodeJS Basics task questions.
