@@ -1,7 +1,6 @@
 // 2-calcul_chai.test.js
-
-const { expect } = ('chai');
-const calculateNumber = ('./2-calcul_chai.js');
+const { expect } = require('chai');
+const calculateNumber = require('./2-calcul_chai');
 
 describe('calculateNumber', () => {
   describe('SUM', () => {
@@ -26,3 +25,4 @@ describe('calculateNumber', () => {
     });
   });
 });
+

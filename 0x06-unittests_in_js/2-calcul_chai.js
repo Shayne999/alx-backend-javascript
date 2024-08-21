@@ -1,5 +1,4 @@
 // 2-calcul_chai.js
-
 function calculateNumber(type, a, b) {
     const roundedA = Math.round(a);
     const roundedB = Math.round(b);
@@ -16,5 +15,6 @@ function calculateNumber(type, a, b) {
     }
   }
   
- export default calculateNumber;
+  module.exports = calculateNumber;
+  
   
