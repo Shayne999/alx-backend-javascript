@@ -1,0 +1,1 @@
+This directory contains Javascript files the contents of which are solutions to the Alx 0x06. Unittests in JS task.
