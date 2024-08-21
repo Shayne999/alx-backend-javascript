@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This directory contains Javascript files the contents of which are solutions to the Alx 0x06. Unittests in JS task.",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "sinon": "^18.0.0"
+  },
   "devDependencies": {
     "chai": "^5.1.1",
     "mocha": "^10.7.3"
