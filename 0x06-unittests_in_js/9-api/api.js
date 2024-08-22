@@ -16,4 +16,4 @@ app.listen(PORT, () => {
     console.log(`API available on localhost port ${PORT}`);
 });
 
-modelue.exports = app
+module.exports = app
